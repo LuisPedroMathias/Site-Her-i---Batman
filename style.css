@@ -1,10 +1,13 @@
 body {
     background-color: black;
     color: rgb(236, 0, 0);
+    background-image: url("assets/bat8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
-    height: 300px;
+    height: 200px;
     border: 1px solid rgb(255, 0, 0);
     border-radius: 20px;
 }
@@ -24,4 +27,16 @@ p {
 footer p{
     color: yellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
