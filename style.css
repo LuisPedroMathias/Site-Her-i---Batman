@@ -21,10 +21,12 @@ h1 {
 }
 
 p {
-    color:aliceblue
+    color: yellow;
+    margin-bottom: 15px;
+
 }
 
-footer p{
+footer p {
     color: yellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -39,4 +41,39 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: rgb(29, 28, 27);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+.not1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2px;
+    background-color: rgb(29, 28, 27);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+
+
+
+.titulo1 {
+    margin-right: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: rgb(155, 155, 155);
+    border: 1px solid yellow;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+}
+
+
+.img1 {
+    margin-left: 10px;
+    height: 250px;
 }
