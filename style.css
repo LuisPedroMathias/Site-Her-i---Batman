@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: rgb(236, 0, 0);
-    background-image: url("assets/bat8.jpg");
+    background-image: url("assets/bat11.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -54,7 +54,7 @@ h2 {
 .not1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 2px;
-    background-color: rgb(29, 28, 27);
+    background-color: rgb(27, 27, 27);
     border: 1px solid rgb(255, 0, 0);
     border-radius: 10px;
 }
@@ -66,10 +66,10 @@ h2 {
     margin-right: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 20px;
-    background-color: rgb(155, 155, 155);
+    background-color: rgb(0, 0, 0);
     border: 1px solid yellow;
     border-radius: 10px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 
